@@ -3,6 +3,11 @@
 
 # OpenAM
 <p align="center"><img src="misc/git/DTU_Logo.png" height="100" alt="DTU logo" /></p>
+
+_Update August 2024_
+The official funding behind the project has run its course, and the systems are now (being) released. Another repo contains the VPP system, whereas this will continue to contain and evolve the metal LPBF system. Updated CAD, firmware, etc. will come. Please get in touch with us if you are interested in early access or find missing information.
+
+
 _Update 3rd of January 2024._
 
 The DTU Open AM PBF repo for everything related to machine building (CAD, schematics, BOM, etc.). Everything is a work in progress and will be published as soon as sufficiently detailed documentation is produced. Some changes were made to the system, resulting in versions 1 and 2. Version 2 will be the actual release.
